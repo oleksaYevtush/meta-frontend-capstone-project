@@ -1,0 +1,25 @@
+{
+  "seats": [
+    {
+      "value": "Indoor",
+      "label": "Indoor seating"
+    },
+    {
+      "value": "Outdoor",
+      "label": "Outdoor seating"
+    }
+  ],
+  "diners": [
+    "1 Diner",
+    "2 Diners",
+    "3 Diners",
+    "4 Diners",
+    "5 Diners",
+    "6 Diners",
+    "7 Diners",
+    "8 Diners",
+    "9 Diners",
+    "10 Diners"
+  ],
+  "occasions": ["Birthday", "Engagement", "Anniversary"]
+}
